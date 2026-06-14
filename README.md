@@ -19,7 +19,7 @@ o tratamento dessas informações e gerar insights sobre a gestão desses dados 
 ## 📈 Principais Insights Gerados
 * Identificação de padrões de gastos por partidos/estados
 * Deputados que mais gastaram e os que menos gastaram
-* Tipos de atividades/serviços que mais geram gastos
+* Tipos de atividades/serviços que mais geraram gastos
 * Períodos do ano em que se tem um maior volume de gastos
 
 ## 🚀 Como executar o projeto localmente
